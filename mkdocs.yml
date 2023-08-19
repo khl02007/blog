@@ -1,6 +1,19 @@
-site_name: Kyu Hyun Lee's blog
+site_name: Kyu Hyun Lee
 site_url: http://khl02007.github.io
 nav:
-  - Home: index.md
-  - About: about.md
-theme: readthedocs
+  - About: index.md
+  - Blog:
+    - blog/index.md
+theme: 
+  name: material
+  palette:
+    primary: grey
+    accent: black
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+plugins:
+  - search
+  - blog
