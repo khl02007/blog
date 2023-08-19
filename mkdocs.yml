@@ -1,0 +1,6 @@
+site_name: Kyu Hyun Lee's blog
+site_url: http://khl02007.github.io
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
