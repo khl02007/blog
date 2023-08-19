@@ -6,6 +6,8 @@ nav:
     - blog/index.md
 theme: 
   name: material
+  icon: 
+    logo: material/brain
   palette:
     primary: grey
     accent: black
@@ -17,3 +19,8 @@ theme:
 plugins:
   - search
   - blog
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
