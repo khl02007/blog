@@ -6,7 +6,7 @@ categories:
     - AI
 ---
 # How does this thing hang together?
-we have uncovered many representations in different brain areas
+We have uncovered many representations in different brain areas
 but brain is a computer and computers transform representations
 we know little bout how these computations happen, especially across multiple brain areas
 given all the representaitons in different brain areas, how does it hang together? how can we get to know this?

@@ -16,6 +16,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.indexes
+  # custom_dir: overrides
 plugins:
   - search
   - blog
@@ -24,3 +25,4 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - footnotes

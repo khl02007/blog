@@ -3,7 +3,6 @@ draft: true
 date: 2023-08-18
 categories:
     - neuroscience
-    - AI
 ---
 # What did we learn from IBL
 - https://www.biorxiv.org/content/10.1101/2023.07.04.547681v2.full.pdf
