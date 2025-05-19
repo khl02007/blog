@@ -1,3 +1,3 @@
 # Kyu Hyun Lee's blog
 
-Coming soon.
+[A brief primer on Neurodata Without Borders (NWB)](./posts/nwb.md)
