@@ -1,0 +1,57 @@
+name: blog
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h1de35cc_0
+  - ca-certificates=2023.05.30=hecd8cb5_0
+  - libffi=3.4.4=hecd8cb5_0
+  - ncurses=6.4=hcec6c5f_0
+  - openssl=3.0.10=hca72f7f_0
+  - pip=23.2.1=py310hecd8cb5_0
+  - python=3.10.12=h5ee71fb_0
+  - readline=8.2=hca72f7f_0
+  - setuptools=68.0.0=py310hecd8cb5_0
+  - sqlite=3.41.2=h6c40b1e_0
+  - tk=8.6.12=h5d9f67b_0
+  - tzdata=2023c=h04d1e81_0
+  - wheel=0.38.4=py310hecd8cb5_0
+  - xz=5.4.2=h6c40b1e_0
+  - zlib=1.2.13=h4dc903c_0
+  - pip:
+    - babel==2.12.1
+    - beautifulsoup4==4.12.2
+    - certifi==2023.7.22
+    - charset-normalizer==3.2.0
+    - click==8.1.7
+    - colorama==0.4.6
+    - cssselect==1.2.0
+    - ghp-import==2.1.0
+    - idna==3.4
+    - jinja2==3.1.2
+    - lxml==4.9.3
+    - markdown==3.5.1
+    - markdown2==2.4.10
+    - markupsafe==2.1.3
+    - mergedeep==1.3.4
+    - mkdocs==1.5.3
+    - mkdocs-bootstrap==1.1.1
+    - mkdocs-material==9.5.3
+    - mkdocs-material-extensions==1.3.1
+    - packaging==23.1
+    - paginate==0.5.6
+    - pathspec==0.11.2
+    - platformdirs==3.10.0
+    - pygments==2.16.1
+    - pymdown-extensions==10.5
+    - pyquery==2.0.0
+    - python-dateutil==2.8.2
+    - pyyaml==6.0.1
+    - pyyaml-env-tag==0.1
+    - readtime==3.0.0
+    - regex==2023.8.8
+    - requests==2.31.0
+    - six==1.16.0
+    - soupsieve==2.4.1
+    - urllib3==2.0.4
+    - watchdog==3.0.0
+prefix: /Users/kyu/miniconda3/envs/blog
