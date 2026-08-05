@@ -1,3 +1,7 @@
+---
+disable_toc: true
+---
+
 # Kyu Hyun Lee
 
 <img src="./img/small.png" alt="photo" width="300"/>
