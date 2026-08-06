@@ -1,5 +1,6 @@
 ---
-disable_toc: true
+disable_toc: false
+toc_top_level_only: true
 ---
 
 # Research
